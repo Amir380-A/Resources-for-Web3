@@ -17,11 +17,12 @@ https://www.youtube.com/watch?v=ZE2HxTmxfrI
 That should be it. We can now start developing and making these smart contracts using Solidity.
 Sources for learning Solidity:
 
-
+**Note**: This roadmap/ resource is primarily for developing on the Etherum Blockchain itself, but to make a Full-Stack Project, you have to also learn Front-end technologies like Reactjs, vue, Angular or even Flutter and integrate them with smart contract using libraries like Web3.js or Ether.js
 # Docs:
 - Solidity Official Docs:https://docs.soliditylang.org/en/v0.4.24/solidity-by-example.html
 - Remix IDE Docs:https://remix-ide.readthedocs.io/en/latest/
 - Cryptozombies: https://cryptozombies.io/
+- IPFS P2P Docs: https://docs.ipfs.tech/
 
 
 
@@ -39,6 +40,7 @@ Some tools you can use in development:
 - Truffle or HardHat frameworks
 - OpenZeppelin for the standardization of the Smart Contract.
 - MetaMask- wallet extension
+- Ether.js or Web3.js for interacting with the Blockchain.
 - Chainlink- for bringing the off-chain data to the on-chain Smart - Contracts (Blockchain) through fetching any desired data from   APIs and getting it on-chain.
 
 
@@ -47,6 +49,7 @@ Some tools you can use in development:
 - NFT
 - DAPPs
 - DAO
+
 
 
 
